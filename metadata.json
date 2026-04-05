@@ -1,0 +1,7 @@
+{
+  "name": "Leeroy Manganda Plumbing",
+  "description": "Professional plumbing and drainlaying services in Bulawayo, Zimbabwe. 15+ years experience in residential and commercial plumbing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
